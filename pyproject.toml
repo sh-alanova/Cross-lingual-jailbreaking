@@ -1,0 +1,11 @@
+[tool.ruff]
+
+select = ["E", "W", "F", "I"]  # PEP8, Pyflakes, isort
+ignore = ["E501"]
+
+line-length = 88
+target-version = "py38"
+
+[tool.ruff.isort]
+known-first-party = ["src"]
+combine-as-imports = true
