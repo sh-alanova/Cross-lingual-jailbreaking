@@ -120,7 +120,7 @@
 
 #### 2.2. Блок-схема решения
 
-![Архитектура системы](images/block_schem_1.jpg)
+<img src="images/block_schem_1.jpg" width="400"/>
 
 #### 2.3. Этапы решения задачи
 
@@ -493,7 +493,7 @@
   
 ##### Блок схема:
 
-![Архитектура semantic_filter](images/block_schem_2.jpg)
+<img src="images/block_schem_2.jpg" width="400"/>
 
 ##### Пояснения:
 
